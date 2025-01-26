@@ -8,7 +8,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jahid-github&layout=compact&theme=radical)
 
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=jahid-github&theme=react-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=jahid-github&theme=react-dark)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=jahid-github&color=blue)
 
