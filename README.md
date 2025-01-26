@@ -3,8 +3,14 @@
 **I completed Bachelor of Business Administration in Marketing, Comilla University, Bangladesh and gathered some knowledge of Business Standard Operation. Now, I am doing another Bachelor degree in Engineering in ICT-Robotics (Profiling Competence: Data Science, AI & ML) at HAMK University, Finland. I want to be efficient & effective on Data Science, Artificial Intelligence & Machine Learning for discovering new idea, strategic thinking and grow rapidly with increasing responsibilities.**
 
 ![GitHub status](https://github-readme-stats.vercel.app/api?username=jahid-github&show_icons=true&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com/?user=jahid-ghithub&theme=radical)
 
+![GitHub Streak](https://streak-stats.demolab.com/?user=jahid-github&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jahid-github&layout=compact&theme=radical)
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jahid-github&theme=react-dark)
+
+![Profile Views](https://komarev.com/ghpvc/?username=jahid-github&color=blue)
 
 **Research Approach:** 
 - Meta-analyses
