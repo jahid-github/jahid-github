@@ -17,13 +17,13 @@ Data, AI & ML
 - Bangla: Native
 
 **Proficient in Technical Skill:** 
-- Languages: Python, R 
-- Frameworks/Tools: Sema4.ai, PowerBI, Excel, Tableau, QlikView, Matplotlib, TensorFlow, PyTorch, Scikit-learn, PowerShell
+- Languages: Python, R
+- Version Control: Git, Github
 - Databases: Microsoft SQL Server 
 - Operating Sytem: Linux, Windows
 - Cloud Services: Microsoft Azure
 - Development Environment: Visual Studio Code
-- Version Control: Git, Github
+- Frameworks/Tools: Sema4.ai, PowerBI, Excel, Tableau, QlikView, Matplotlib, TensorFlow, PyTorch, Scikit-learn, PowerShell
   
 **Proficient in Soft Skill:** 
 - Cognitive
