@@ -41,9 +41,9 @@ Data, AI & ML
 ## Proficient in Technical Skill
 - Languages: Python, R
 - Version Control: Git, Github
+- Cloud Services: Microsoft Azure
 - Databases: Microsoft SQL Server 
 - Operating Sytem: Linux, Windows
-- Cloud Services: Microsoft Azure
 - Development Environment: Visual Studio Code
 - Frameworks/Tools: Sema4.ai, PowerBI, Excel, Tableau, QlikView, Matplotlib, TensorFlow, PyTorch, Scikit-learn, PowerShell
   
