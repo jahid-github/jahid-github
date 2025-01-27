@@ -6,6 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jahidulislamin/)
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-1DA1F2?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/jahidulislam2636)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-1DA1F2?logo=Kaggle&logoColor=white)](https://www.kaggle.com/jahid0)
+[![CodeChef](https://img.shields.io/badge/-CodeChef-1DA1F2?logo=CodeChef&logoColor=white)](https://www.codechef.com/users/jahidcode)
 
 ![GitHub status](https://github-readme-stats.vercel.app/api?username=jahid-github&show_icons=true&theme=radical)
 
