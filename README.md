@@ -5,7 +5,7 @@
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jahidulislamin/)
 [![X](https://img.shields.io/badge/-X-1DA1F2?logo=X&logoColor=white)](https://x.com/jahidulislamtwt)
-[![Hackerrank](https://img.shields.io/badge/-X-1DA1F2?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/jahidulislam2636)
+[![Hackerrank](https://img.shields.io/badge/-Hackerrank-1DA1F2?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/jahidulislam2636)
 
 ![GitHub status](https://github-readme-stats.vercel.app/api?username=jahid-github&show_icons=true&theme=radical)
 
