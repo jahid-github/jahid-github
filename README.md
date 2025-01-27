@@ -2,7 +2,7 @@
 
 **I completed Bachelor of Business Administration in Marketing, Comilla University, Bangladesh and gathered some knowledge of Business Standard Operation. Now, I am doing another Bachelor degree in Engineering in ICT-Robotics (Profiling Competence: Data Science, AI & ML) at HAMK University, Finland. I want to be efficient & effective on Data Science, Artificial Intelligence & Machine Learning for discovering new idea, strategic thinking and grow rapidly with increasing responsibilities.**
 
-## 🌐 Connect with Me
+## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jahidulislamin/)
 [![X](https://img.shields.io/badge/-X-1DA1F2?logo=X&logoColor=white)](https://x.com/jahidulislamtwt)
 
@@ -17,6 +17,10 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=jahid-github&color=blue)
 
 ## Projects
+| Project Name       | Description                                   | Technologies Used |
+|:-------------------|:--------------------------------------:       |-------------------|
+| [Expense Tracker](https://github.com/jahid-github/RPA-Expense-Tracker)    | Automatically fills and submits data from web | Python, VS Code   |
+| [Machine Vision Application](https://github.com/jahid-github/A-machine-vision-application-with-Arduino-Nicla-Vision-to-select-pieces-mosaic-tiles-by-color) | To select pieces mosaic tiles by color| Arduino IDE, OpenMV, Python |
 
 ### [Expense Tracker](https://github.com/jahid-github/RPA-Expense-Tracker)
 - *Description:* RPA Expense Tracker Bot using sema4.ai to automate the process of recording and summarizing expenses.
@@ -26,20 +30,20 @@
   - Captures a snapshot of the completed form.
   - Creates a PDF report summarizing expenses by category and vendor.
 
-**Research Approach:** 
+### Research Approach:
 - Meta-analyses
 - Big data research 
 - Systematic reviews
 - Consumer-based studies
   
-**Research Interest:** 
+### Research Interest:
 Data, AI & ML
 
-**Proficient in Language Skill:**
+### Proficient in Language Skill:
 - Finnish (Suomi): A1.2 level
 - English: B1 level (Full professional proficiency)
 
-**Proficient in Technical Skill:** 
+## Proficient in Technical Skill:
 - Languages: Python, R
 - Version Control: Git, Github
 - Databases: Microsoft SQL Server 
@@ -48,7 +52,7 @@ Data, AI & ML
 - Development Environment: Visual Studio Code
 - Frameworks/Tools: Sema4.ai, PowerBI, Excel, Tableau, QlikView, Matplotlib, TensorFlow, PyTorch, Scikit-learn, PowerShell
   
-**Proficient in Soft Skill:** 
+### Proficient in Soft Skill:
 - Cognitive
 - Quantitative
 - Interpersonal
