@@ -3,7 +3,7 @@
 **I completed Bachelor of Business Administration in Marketing, Comilla University, Bangladesh and gathered some knowledge of Business Standard Operation. Now, I am doing another Bachelor degree in Engineering in ICT-Robotics (Profiling Competence: Data Science, AI & ML) at HAMK University, Finland. I want to be efficient & effective on Data Science, Artificial Intelligence & Machine Learning for discovering new idea, strategic thinking and grow rapidly with increasing responsibilities.**
 
 ## Connect with Me
-[![Email](https://img.shields.io/badge/Email-your--jahid.islam@zohomail.com-blue?style=flat&logo=gmail)](mailto:jahid.islam@zohomail.com)
+[![Email](https://img.shields.io/badge/Email-blue?style=flat&logo=gmail)](mailto:jahid.islam@zohomail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jahidulislamin/)
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-1DA1F2?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/jahidulislam2636)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-1DA1F2?logo=Kaggle&logoColor=white)](https://www.kaggle.com/jahid0)
