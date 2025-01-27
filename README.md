@@ -4,7 +4,7 @@
 
 ## Connect with Me
 [![Email](https://img.shields.io/badge/Email-blue?style=flat&logo=gmail)](mailto:jahid.islam@zohomail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jahidulislamin/)
+[![](https://img.shields.io/badge/-LinkedIn-0077B5?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jahidulislamin/)
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-1DA1F2?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/jahidulislam2636)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-1DA1F2?logo=Kaggle&logoColor=white)](https://www.kaggle.com/jahid0)
 [![CodeChef](https://img.shields.io/badge/-CodeChef-1DA1F2?logo=CodeChef&logoColor=white)](https://www.codechef.com/users/jahidcode)
