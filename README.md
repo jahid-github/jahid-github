@@ -43,31 +43,6 @@
   </tbody>
 </table>
 
-## Projects
-
-<table>
-  <thead style="background-color: #D3D3D3;"> <!-- Header background color -->
-    <tr>
-      <th>Project Name</th>
-      <th>Description</th>
-      <th>Technologies Used</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/jahid-github/RPA-Expense-Tracker">Expense Tracker</a></td>
-      <td>Automatically fills and submits data from web</td>
-      <td>Python, VS Code</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/jahid-github/A-machine-vision-application-with-Arduino-Nicla-Vision-to-select-pieces-mosaic-tiles-by-color">Machine Vision Application</a></td>
-      <td>To select pieces mosaic tiles by color</td>
-      <td>Arduino IDE, OpenMV, Python</td>
-    </tr>
-  </tbody>
-</table>
-
-
 ## Research Approach
 - Meta-analyses
 - Big data research 
