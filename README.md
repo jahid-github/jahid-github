@@ -20,12 +20,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=jahid-github&color=blue)
 
 ## Projects
-| Project Name       | Description                                  | Technologies Used |
-| :-------------------| :---------------------------------------------| :-------------------|
-| [Expense Tracker](https://github.com/jahid-github/RPA-Expense-Tracker)    | Automatically fills and submits data from web | Python, VS Code   |
-| [Machine Vision Application](https://github.com/jahid-github/A-machine-vision-application-with-Arduino-Nicla-Vision-to-select-pieces-mosaic-tiles-by-color) | To select pieces mosaic tiles by color| Arduino IDE, OpenMV, Python |
-
-## Projects
 
 <table>
   <thead style="background-color: #D3D3D3;"> <!-- Ash color for the header -->
