@@ -16,6 +16,16 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=jahid-github&color=blue)
 
+## Projects
+
+### 1. [Expense Tracker](https://github.com/jahid-github/RPA-Expense-Tracker))
+- *Description:* RPA Expense Tracker Bot using sema4.ai to automate the process of recording and summarizing expenses.
+- *Technologies Used:* Robocorp(Sema4.ai), Python, VS code.
+- *Features:*
+  - Automatically fills and submits expense data into the web form.
+  - Captures a snapshot of the completed form.
+  - Creates a PDF report summarizing expenses by category and vendor.
+
 **Research Approach:** 
 - Meta-analyses
 - Big data research 
