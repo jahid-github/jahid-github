@@ -22,6 +22,7 @@
 ## Projects
 | Project Name       | Description                                  | Technologies Used |
 |:-------------------|:---------------------------------------------|:-------------------|
+
 | [Expense Tracker](https://github.com/jahid-github/RPA-Expense-Tracker)    | Automatically fills and submits data from web | Python, VS Code   |
 | [Machine Vision Application](https://github.com/jahid-github/A-machine-vision-application-with-Arduino-Nicla-Vision-to-select-pieces-mosaic-tiles-by-color) | To select pieces mosaic tiles by color| Arduino IDE, OpenMV, Python |
 
