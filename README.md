@@ -22,14 +22,6 @@
 | [Expense Tracker](https://github.com/jahid-github/RPA-Expense-Tracker)    | Automatically fills and submits data from web | Python, VS Code   |
 | [Machine Vision Application](https://github.com/jahid-github/A-machine-vision-application-with-Arduino-Nicla-Vision-to-select-pieces-mosaic-tiles-by-color) | To select pieces mosaic tiles by color| Arduino IDE, OpenMV, Python |
 
-### [Expense Tracker](https://github.com/jahid-github/RPA-Expense-Tracker)
-- *Description:* RPA Expense Tracker Bot using sema4.ai to automate the process of recording and summarizing expenses.
-- *Technologies Used:* Robocorp(Sema4.ai), Python, VS code.
-- *Features:*
-  - Automatically fills and submits expense data into the web form.
-  - Captures a snapshot of the completed form.
-  - Creates a PDF report summarizing expenses by category and vendor.
-
 ### Research Approach:
 - Meta-analyses
 - Big data research 
