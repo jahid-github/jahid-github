@@ -22,20 +22,20 @@
 | [Expense Tracker](https://github.com/jahid-github/RPA-Expense-Tracker)    | Automatically fills and submits data from web | Python, VS Code   |
 | [Machine Vision Application](https://github.com/jahid-github/A-machine-vision-application-with-Arduino-Nicla-Vision-to-select-pieces-mosaic-tiles-by-color) | To select pieces mosaic tiles by color| Arduino IDE, OpenMV, Python |
 
-### Research Approach:
+## Research Approach
 - Meta-analyses
 - Big data research 
 - Systematic reviews
 - Consumer-based studies
   
-### Research Interest:
+## Research Interest
 Data, AI & ML
 
-### Proficient in Language Skill:
+## Proficient in Language Skill
 - Finnish (Suomi): A1.2 level
 - English: B1 level (Full professional proficiency)
 
-## Proficient in Technical Skill:
+## Proficient in Technical Skill
 - Languages: Python, R
 - Version Control: Git, Github
 - Databases: Microsoft SQL Server 
@@ -44,7 +44,7 @@ Data, AI & ML
 - Development Environment: Visual Studio Code
 - Frameworks/Tools: Sema4.ai, PowerBI, Excel, Tableau, QlikView, Matplotlib, TensorFlow, PyTorch, Scikit-learn, PowerShell
   
-### Proficient in Soft Skill:
+## Proficient in Soft Skill
 - Cognitive
 - Quantitative
 - Interpersonal
