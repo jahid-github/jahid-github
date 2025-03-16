@@ -62,7 +62,7 @@ Data, AI & ML
 - Cloud Services: Microsoft Azure
 - Databases: Microsoft SQL Server 
 - Operating System: Linux, Windows
-- Development Environment: Visual Studio Code
+- Development Environment: Visual Studio Code, Jupyter Notebook, Google Colab
 - Frameworks/Tools: Sema4.ai, PowerBI, Excel, Tableau, QlikView, Matplotlib, TensorFlow, PyTorch, Scikit-learn, PowerShell
   
 ## Proficient in Soft Skill
