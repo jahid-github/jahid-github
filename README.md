@@ -63,7 +63,10 @@ Data, AI & ML
 - Databases: Microsoft SQL Server 
 - Operating System: Linux, Windows
 - Development Environment: Visual Studio Code, Jupyter Notebook, Google Colab
-- Frameworks/Tools: Sema4.ai, PowerBI, Excel, Tableau, QlikView, Matplotlib, TensorFlow, PyTorch, Scikit-learn, PowerShell
+- Frameworks/Tools: Sema4.ai, PowerBI, Excel, Tableau, QlikView, Matplotlib, TensorFlow, PyTorch, Scikit-learn, PowerShell, Docker
+- Network simulation tool: Cisco Packet Tracer
+- Robot simulation tool: Visual Components, RoboDK
+- Robot Framework: ROS 2
   
 ## Proficient in Soft Skill
 - Cognitive
