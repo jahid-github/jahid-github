@@ -60,9 +60,9 @@ Data, AI & ML
 - Languages: Python, R
 - Version Control: Git, Github
 - Cloud Services: Microsoft Azure
-- Databases: Microsoft SQL Server 
+- Databases: SQL- MySQL/PostgreSQL/MariaDB/Microsoft SQL Server, NonSQL-MongoDB
 - Operating System: Linux, Windows
-- Development Environment: Visual Studio Code, Jupyter Notebook, Google Colab
+- Development Environment: VS Code, Jupyter Notebook, Google Colab
 - Frameworks/Tools: Sema4.ai, PowerBI, Excel, Tableau, QlikView, Matplotlib, TensorFlow, PyTorch, Scikit-learn, PowerShell, Docker
 - Network simulation tool: Cisco Packet Tracer
 - Robot simulation tool: Visual Components, RoboDK
