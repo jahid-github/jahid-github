@@ -52,25 +52,32 @@
 ## Research Interest
 Data, AI & ML
 
-## Proficient in Language Skill
+## Proficient in Language Skills
 - Finnish (Suomi): A1.2 level
 - English: B1 level (Full professional proficiency)
 
-## Proficient in Technical Skill
+## Proficient in Technical Skills
 - Languages: Python, R
 - Version Control: Git, Github
 - Cloud Services: Microsoft Azure
 - Databases: SQL- MySQL/PostgreSQL/MariaDB/Microsoft SQL Server/BigQuery, NonSQL-MongoDB
 - Database Management Tools: DBeaver and pgAdmin
-- Data Visualization Tools: Metabase, Looker Studio, Tableau, PowerBI
+- Data Visualization & BI Tools: Excel, QlikView, Tableau, PowerBI Looker Studio, Metabase
+- ML Frameworks: TensorFlow, PyTorch, Scikit-learn
 - Operating System: Linux, Windows
 - Development Environment: VS Code, Jupyter Notebook, Google Colab
-- Frameworks/Tools: Sema4.ai, Excel, QlikView, Matplotlib, TensorFlow, PyTorch, Scikit-learn, PowerShell, Docker
+- Automation/Scripting Tools: PowerShell, Docker
+
+
+
+
+
+
 - Network simulation tool: Cisco Packet Tracer
 - Robot simulation tool: Visual Components, RoboDK
-- Robot Framework: ROS 2
+- Robot Framework: Ros2
   
-## Proficient in Soft Skill
+## Proficient in Soft Skills
 - Cognitive
 - Quantitative
 - Interpersonal
