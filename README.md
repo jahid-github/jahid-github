@@ -62,7 +62,7 @@ Data, AI & ML
 - Cloud Services: Microsoft Azure, Google Cloud Platform (BigQuery)
 - Databases: MySQL, PostgreSQL, MariaDB, Microsoft SQL Server, BigQuery (SQL); MongoDB (NoSQL)
 - Database Management Tools: DBeaver and pgAdmin
-- Data Visualization & BI Tools: Excel, QlikView, Tableau, PowerBI Looker Studio, Metabase
+- Data Visualization & BI Tools: Excel, QlikView, Tableau, PowerBI, Looker Studio, Metabase
 - ML Frameworks: TensorFlow, PyTorch, Scikit-learn
 - Operating System: Linux, Windows
 - Development Environment: VS Code, Jupyter Notebook, Google Colab
