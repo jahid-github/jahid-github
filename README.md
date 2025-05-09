@@ -60,7 +60,7 @@ Data, AI & ML
 - Languages: Python, R
 - Version Control: Git, Github
 - Cloud Services: Microsoft Azure, Google Cloud Platform (BigQuery)
-- Databases: MySQL, PostgreSQL, MariaDB, Microsoft SQL Server, BigQuery (SQL); MongoDB (NoSQL)
+- Databases: MySQL, PostgreSQL, MariaDB (SQL), Microsoft SQL Server, BigQuery (SQL); MongoDB (NoSQL)
 - Database Management Tools: DBeaver and pgAdmin
 - Data Visualization & BI Tools: Excel, QlikView, Tableau, PowerBI, Looker Studio, Metabase
 - ML Frameworks: TensorFlow, PyTorch, Scikit-learn
