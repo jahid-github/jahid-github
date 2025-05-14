@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-**I completed Bachelor of Business Administration in Marketing, Comilla University, Bangladesh and gathered some knowledge of Business Standard Operation. Now, I am doing another Bachelor degree in Engineering in ICT-Robotics (Profiling Competence: Data Science, AI & ML) at HAMK University, Finland. I want to be efficient & effective on Data Science, Artificial Intelligence & Machine Learning for discovering new idea, strategic thinking and grow rapidly with increasing responsibilities.**
+**I completed Bachelor of Business Administration in Marketing, Comilla University, Bangladesh and gathered some knowledge of Business Standard Operation. Now, I am doing another Bachelor degree in Engineering in ICT-Robotics (Profiling Competence: Data, AI & ML Engineering) at HAMK University, Finland. I want to be efficient & effective on Data, Artificial Intelligence & Machine Learning Engineering for discovering new idea, strategic thinking and grow rapidly with increasing responsibilities.**
 
 ## Connect with me
 [![Email](https://img.shields.io/badge/-blue?style=flat&logo=gmail)](mailto:jahid.islam@zohomail.com)
@@ -57,16 +57,18 @@ Data, AI & ML
 - English: B1 level (Full professional proficiency)
 
 ## Proficient in Technical Skills
-- Languages: Python, R
+- Languages: Python, R, SQL
 - Version Control: Git, Github
-- Cloud Services: Microsoft Azure, Google Cloud Platform (BigQuery)
-- Databases: MySQL, PostgreSQL, MariaDB (SQL), Microsoft SQL Server, BigQuery (SQL); MongoDB (NoSQL)
+- Data Warehouses: BigQuery, Azure Synapse
+- Databases: MySQL, PostgreSQL, MariaDB (SQL), Microsoft SQL Server; MongoDB (NoSQL)
 - Database Management Tools: DBeaver and pgAdmin
+- File Storage: HDFS (Hadoop), Azure Data Lake, Google Cloud Storage
 - Data Visualization & BI Tools: Excel, QlikView, Tableau, PowerBI, Looker Studio, Metabase
 - ML Frameworks: TensorFlow, PyTorch, Scikit-learn
 - Operating System: Linux, Windows
 - Development Environment: VS Code, Jupyter Notebook, Google Colab
 - Automation/Scripting Tools: PowerShell, Docker
+- RPA Tools: Robocorp
 
 
 
