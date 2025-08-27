@@ -53,7 +53,7 @@
 Data, AI & ML
 
 ## Proficient in Language Skills
-- Finnish (Suomi): A1.2 level
+- Finnish (Suomi): A1.3 level
 - English: B1 level (Full professional proficiency)
 
 ## Proficient in Technical Skills
