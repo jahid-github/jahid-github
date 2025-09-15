@@ -63,7 +63,7 @@ Data, AI & ML
 - Databases: MySQL, PostgreSQL, MariaDB (SQL), Microsoft SQL Server; MongoDB (NoSQL)
 - Database Management Tools: DBeaver and pgAdmin
 - File Storage: HDFS (Hadoop), Azure Data Lake, Google Cloud Storage
-- Data Visualization & BI Tools: Excel, QlikView, Tableau, PowerBI, Looker Studio, Metabase
+- Data Visualization: Matplotlib, Seaborn, and Plotly
 - ML Frameworks: TensorFlow, PyTorch, Scikit-learn
 - Operating System: Linux, Windows
 - Development Environment: VS Code, Jupyter Notebook, Google Colab
