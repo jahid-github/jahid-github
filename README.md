@@ -57,10 +57,10 @@ Data, AI & ML
 - English: B1 level (Full professional proficiency)
 
 ## Proficient in Technical Skills
-- Languages: Python, R, SQL
+- Languages: Python, SQL
 - Version Control: Git, Github
 - Data Warehouses: BigQuery, Azure Synapse
-- Databases: MySQL, PostgreSQL, MariaDB (SQL), Microsoft SQL Server; MongoDB (NoSQL)
+- Databases: MySQL, MongoDB (NoSQL)
 - Database Management Tools: DBeaver and pgAdmin
 - File Storage: HDFS (Hadoop), Azure Data Lake, Google Cloud Storage
 - Data Visualization: Matplotlib, Seaborn, and Plotly
@@ -68,16 +68,6 @@ Data, AI & ML
 - Operating System: Linux, Windows
 - Development Environment: VS Code, Jupyter Notebook, Google Colab
 - Automation/Scripting Tools: PowerShell, Docker
-- RPA Tools: Robocorp
-
-
-
-
-
-
-- Network simulation tool: Cisco Packet Tracer
-- Robot simulation tool: Visual Components, RoboDK
-- Robot Framework: Ros2
   
 ## Proficient in Soft Skills
 - Cognitive
