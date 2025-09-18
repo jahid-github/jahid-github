@@ -58,23 +58,22 @@ Data, AI & ML
 
 ## Proficient in Technical Skills
 - Languages: Python, SQL
-- Version Control: Git, Github
-- Data Warehouses: BigQuery, Azure Synapse
-- Databases: MySQL, MongoDB (NoSQL)
-- Database Management Tools: DBeaver and pgAdmin
-- File Storage: HDFS (Hadoop), Azure Data Lake, Google Cloud Storage
-- Data Visualization: Matplotlib, Seaborn, and Plotly
-- ML Frameworks: TensorFlow, PyTorch, Scikit-learn
-- Operating System: Linux, Windows
-- Development Environment: VS Code, Jupyter Notebook, Google Colab
+- Machine Learning Frameworks: TensorFlow, PyTorch, Scikit-learn
+- Data Visualization: Matplotlib, Seaborn, Plotly
+- Databases & Warehouses: MySQL, MongoDB (NoSQL), BigQuery, Azure Synapse
+- Database Tools: DBeaver, pgAdmin
+- Cloud & Storage: Microsoft Azure, Google Cloud, Azure Data Lake, Google Cloud Storage, HDFS (Hadoop)
+- Version Control: Git, GitHub
+- Development Environments: Jupyter Notebook, Google Colab, Visual Studio Code
 - Automation/Scripting Tools: PowerShell, Docker
+- Operating Systems: Linux, Windows
   
 ## Proficient in Soft Skills
-- Cognitive
-- Quantitative
-- Interpersonal
-- Self-Enthusiastic
 - Analytical Ability
-- Team Collaboration 
+- Creative Problem Solving
+- Quantitative Thinking
+- Team Collaboration
+- Interpersonal Communication
 - Emotional Intelligence
-- Creative Problem Solving 
+- Cognitive Flexibility
+- Self-Enthusiastic
