@@ -76,4 +76,4 @@ Data, AI & ML
 - Interpersonal Communication
 - Emotional Intelligence
 - Cognitive Flexibility
-- Self-Enthusiastic
+- Proactive Learner
