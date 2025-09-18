@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-**I completed Bachelor of Business Administration in Marketing, Comilla University, Bangladesh and gathered some knowledge of Business Standard Operation. Now, I am doing another Bachelor degree in Engineering in ICT-Robotics (Profiling Competence: Data, AI & ML Engineering) at HAMK University, Finland. I want to be efficient & effective on Data, Artificial Intelligence & Machine Learning Engineering for discovering new idea, strategic thinking and grow rapidly with increasing responsibilities.**
+**I am an entry-level Machine Learning Engineer passionate about using data and AI to solve real-world problems. With skills in Python, cloud platforms, and visualization tools, I have built and deployed analytical solutions and AI-driven models through hands-on projects. Currently expanding my expertise through advanced programs at Finland’s universities, I enjoy combining technical knowledge with a collaborative mindset to deliver meaningful insights. I am eager to grow, learn, and contribute to impactful projects that make a difference.**
 
 ## Connect with me
 [![Email](https://img.shields.io/badge/-blue?style=flat&logo=gmail)](mailto:jahid.islam@zohomail.com)
