@@ -57,16 +57,16 @@ Data, AI & ML
 - English: B1 level (Full professional proficiency)
 
 ## Proficient in Technical Skills
-- Languages: Python, SQL, R
-- Machine Learning & Data Analysis: TensorFlow, PyTorch, Scikit-learn, NumPy, Pandas
-- Data Visualization: Matplotlib, Seaborn, Plotly, MS PowerBI, Tableau, Google Looker Studio
-- Databases & Warehouses: MySQL, MongoDB (NoSQL), BigQuery, Azure Synapse
-- Database Tools: DBeaver
+- Languages (Proficient): Python, SQL, R
+- Machine Learning & Data Analysis (Proficient): TensorFlow, PyTorch, Scikit-learn, NumPy, Pandas
+- Data Visualization (Proficient): Matplotlib, Seaborn, Plotly, MS PowerBI, Tableau, Google Looker Studio
+- Databases & Warehouses (Proficient): MySQL, MongoDB (NoSQL), BigQuery, Azure Synapse
+- Database Tools (Proficient): DBeaver
 - Cloud & Storage: Microsoft Azure, Google Cloud, Azure Data Lake, Google Cloud Storage, HDFS (Hadoop)
-- Version Control: Git, GitHub
-- Development Environments: Jupyter Notebook, Google Colab, Visual Studio Code
-- Automation/Scripting Tools: PowerShell, Docker
-- Operating Systems: Linux, Windows
+- Version Control (Proficient): Git, GitHub
+- Development Environments (Proficient): Jupyter Notebook, Google Colab, Visual Studio Code
+- Automation/Scripting Tools (Proficient): PowerShell, Docker
+- Operating Systems (Proficient): Linux, Windows
   
 ## Proficient in Soft Skills
 - Analytical Ability
