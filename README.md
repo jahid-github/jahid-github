@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-**I am an entry-level Machine Learning Engineer passionate about using data and AI to solve real-world problems. With skills in Python, cloud platforms, and visualization tools, I have built and deployed analytical solutions and AI-driven models through hands-on projects. Currently expanding my expertise through advanced programs at Finland’s universities, I enjoy combining technical knowledge with a collaborative mindset to deliver meaningful insights. I am eager to grow, learn, and contribute to impactful projects that make a difference.**
+**I am Entry-level Machine Learning Engineer skilled in Python, SQL, R, cloud platforms, and data visualization, passionate about solving real-world problems with AI. My short-term goal is to contribute to impactful ML projects by developing and deploying efficient models while gaining hands-on industry experience. In the long term, I aim to specialize in future ML arenas such as intelligent automation, and scalable data-driven systems to drive innovation.**
 
 ## Connect with me
 [![Email](https://img.shields.io/badge/-blue?style=flat&logo=gmail)](mailto:jahid.islam@zohomail.com)
@@ -61,7 +61,7 @@ Data, AI & ML
 - Machine Learning & Data Analysis: TensorFlow, PyTorch, Scikit-learn, NumPy, Pandas
 - Data Visualization: Matplotlib, Seaborn, Plotly, MS PowerBI, Tableau, Google Looker Studio
 - Databases & Warehouses: MySQL, MongoDB (NoSQL), BigQuery, Azure Synapse
-- Database Tools: DBeaver, pgAdmin
+- Database Tools: DBeaver
 - Cloud & Storage: Microsoft Azure, Google Cloud, Azure Data Lake, Google Cloud Storage, HDFS (Hadoop)
 - Version Control: Git, GitHub
 - Development Environments: Jupyter Notebook, Google Colab, Visual Studio Code
