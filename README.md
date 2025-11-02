@@ -60,7 +60,7 @@ Data, AI & ML
 - Languages (Proficient): Python, SQL, R
 - Machine Learning & Data Analysis (Proficient): TensorFlow, PyTorch, Scikit-learn, NumPy, Pandas
 - Data Visualization (Proficient): Matplotlib, Seaborn, Plotly, MS PowerBI, Tableau, Google Looker Studio
-- Databases & Warehouses (Proficient): MySQL, MongoDB (NoSQL), BigQuery, Azure Synapse
+- Databases & Warehouses (Proficient): MySQL, SQL Server, PostgreSQL, MongoDB (NoSQL), BigQuery, Azure Synapse
 - Database Tools (Proficient): DBeaver
 - Cloud & Storage: Microsoft Azure, Google Cloud, Azure Data Lake, Google Cloud Storage, HDFS (Hadoop)
 - Version Control (Proficient): Git, GitHub
