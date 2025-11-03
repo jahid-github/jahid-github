@@ -51,8 +51,8 @@
 - Languages: Python, SQL, R
 - ML & Data Analysis: TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy
 - Visualization: Power BI, Tableau, Looker Studio, Plotly, Matplotlib, Seaborn
-- Databases: MySQL, PostgreSQL, SQL Server, MongoDB, BigQuery, Azure Synapse
-- Cloud: Microsoft Azure, Google Cloud, Azure Data Lake, HDFS
+- Databases: MySQL, PostgreSQL, SQL Server, MongoDB, BigQuery, Azure Synapse, Snowflake
+- Cloud: Microsoft Azure, Google Cloud, Databricks, Azure Data Lake, HDFS
 - Tools: Git, GitHub, DBeaver, Docker, PowerShell, Jupyter Notebook, VS Code
 
 ## 🗣️ Language Skills:
