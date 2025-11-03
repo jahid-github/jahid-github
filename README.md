@@ -1,6 +1,10 @@
-## Hi there 👋
+**👋 Hi, I’m an Entry-Level Machine Learning Engineer passionate about solving real-world problems through data and AI. I combine Python, SQL, and R expertise with hands-on experience in machine learning, data analytics, and visualization to turn complex datasets into intelligent, scalable insights.**
 
-**I am Entry-level Machine Learning Engineer skilled in Python, SQL, R, cloud platforms, and data visualization, passionate about solving real-world problems with AI. My short-term goal is to contribute to impactful ML projects by developing and deploying efficient models while gaining hands-on industry experience. In the long term, I aim to specialize in future ML arenas such as intelligent automation, and scalable data-driven systems to drive innovation.**
+**🚀 What I bring: a strong analytical mindset, creative problem-solving ability, and a proactive approach to continuous learning.**
+
+**🎯 Short-Term Goal: to contribute to impactful ML projects by developing, training, and deploying efficient models that improve business outcomes.**
+
+**🌱 Long-Term Goal: to specialize in intelligent automation and scalable data-driven systems, helping organizations innovate through next-generation AI solutions.**
 
 ## Connect with me
 [![Email](https://img.shields.io/badge/-blue?style=flat&logo=gmail)](mailto:jahid.islam@zohomail.com)
@@ -43,37 +47,18 @@
   </tbody>
 </table>
 
-## Research Approach
-- Meta-analyses
-- Big data research 
-- Systematic reviews
-- Consumer-based studies
-  
-## Research Interest
-Data, AI & ML
+## 🌐 Technical Stack:
+- Languages: Python, SQL, R
+- ML & Data Analysis: TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy
+- Visualization: Power BI, Tableau, Looker Studio, Plotly, Matplotlib, Seaborn
+- Databases: MySQL, PostgreSQL, SQL Server, MongoDB, BigQuery, Azure Synapse
+- Cloud: Microsoft Azure, Google Cloud, Azure Data Lake, HDFS
+- Tools: Git, GitHub, DBeaver, Docker, PowerShell, Jupyter Notebook, VS Code
 
-## Proficient in Language Skills
-- Finnish (Suomi): A1.3 level
-- English: B1 level (Full professional proficiency)
+## 🗣️ Language Skills:
+- English — C1 (Full Professional Proficiency)
+- Finnish — A1.3 (Active Learner)
 
-## Proficient in Technical Skills
-- Languages (Proficient): Python, SQL, R
-- Machine Learning & Data Analysis (Proficient): TensorFlow, PyTorch, Scikit-learn, NumPy, Pandas
-- Data Visualization (Proficient): Matplotlib, Seaborn, Plotly, MS PowerBI, Tableau, Google Looker Studio
-- Databases & Warehouses (Proficient): MySQL, SQL Server, PostgreSQL, MongoDB (NoSQL), BigQuery, Azure Synapse
-- Database Tools (Proficient): DBeaver
-- Cloud & Storage: Microsoft Azure, Google Cloud, Azure Data Lake, Google Cloud Storage, HDFS (Hadoop)
-- Version Control (Proficient): Git, GitHub
-- Development Environments (Proficient): Jupyter Notebook, Google Colab, Visual Studio Code
-- Automation/Scripting Tools (Proficient): PowerShell, Docker
-- Operating Systems (Proficient): Linux, Windows
   
-## Proficient in Soft Skills
-- Analytical Ability
-- Creative Problem Solving
-- Quantitative Thinking
-- Team Collaboration
-- Interpersonal Communication
-- Emotional Intelligence
-- Cognitive Flexibility
-- Proactive Learner
+## 💡 Soft Skills:
+Analytical Thinking | Team Collaboration | Cognitive Flexibility | Creative Problem-Solving | Emotional Intelligence | Continuous Learning
