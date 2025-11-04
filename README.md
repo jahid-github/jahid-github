@@ -1,10 +1,4 @@
-**👋 Hi, I’m an Entry-Level Machine Learning Engineer passionate about solving real-world problems through data and AI. I combine Python, SQL, and R expertise with hands-on experience in machine learning, data analytics, and visualization to turn complex datasets into intelligent, scalable insights.**
-
-**🚀 What I bring: a strong analytical mindset, creative problem-solving ability, and a proactive approach to continuous learning.**
-
-**🎯 Short-Term Goal: to contribute to impactful ML projects by developing, training, and deploying efficient models that improve business outcomes.**
-
-**🌱 Long-Term Goal: to specialize in intelligent automation and scalable data-driven systems, helping organizations innovate through next-generation AI solutions.**
+**👋 Hi, I’m an Entry-Level Machine Learning Engineer passionate about solving real-world problems through data and AI. I combine Python, SQL, and R expertise with hands-on experience in machine learning, data analytics, and visualization to turn complex datasets into intelligent, scalable insights. My short-term goal is to contribute to impactful ML projects by developing, training, and deploying efficient models that improve business outcomes. My long-term goal is to specialize in intelligent automation and scalable data-driven systems, helping organizations innovate through next-generation AI solutions.**
 
 ## Connect with me
 [![Email](https://img.shields.io/badge/-blue?style=flat&logo=gmail)](mailto:jahid.islam@zohomail.com)
@@ -47,7 +41,7 @@
   </tbody>
 </table>
 
-## 🌐 Technical Stack:
+## Technical Stack:
 - Languages: Python, SQL, R
 - ML & Data Analysis: TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy
 - Visualization: Power BI, Tableau, Looker Studio, Plotly, Matplotlib, Seaborn
@@ -55,10 +49,10 @@
 - Cloud: Microsoft Azure, Google Cloud, Databricks, Azure Data Lake, HDFS
 - Tools: Git, GitHub, DBeaver, Docker, PowerShell, Jupyter Notebook, VS Code
 
-## 🗣️ Language Skills:
+## Language Skills:
 - English — C1 (Full Professional Proficiency)
 - Finnish — A1.3 (Active Learner)
 
   
-## 💡 Soft Skills:
+## Soft Skills:
 Analytical Thinking | Team Collaboration | Cognitive Flexibility | Creative Problem-Solving | Emotional Intelligence | Continuous Learning
