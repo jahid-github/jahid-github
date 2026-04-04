@@ -42,6 +42,11 @@
       <td>Computer vision system for object detection and robotic pick-and-place</td>
       <td>Camera → Vision → Calibration → Robot Motion → Object Placement</td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/jahid-github/Machine_Vision_Guided_Pick_and_Place_with_DobotMG400">GroceScan AI System</a></td>
+      <td>AI-powered system for analyzing food freshness, packaged products, and cosmetics</td>
+      <td>End-to-end: Image → AI → API → Dashboard</td>
+    </tr>
   </tbody>
 </table>
 
