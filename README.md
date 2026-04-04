@@ -1,4 +1,11 @@
-**👋 Hi, I’m an Entry-Level Machine Learning Engineer passionate about solving real-world problems through data and AI. I combine Python, SQL, and R expertise with hands-on experience in machine learning, data analytics, and visualization to turn complex datasets into intelligent, scalable insights. My short-term goal is to contribute to impactful ML projects by developing, training, and deploying efficient models that improve business outcomes. My long-term goal is to specialize in intelligent automation and scalable data-driven systems, helping organizations innovate through next-generation AI solutions.**
+**👋 Hi, I’m an End-to-End AI Engineer with Full-Spectrum Data Science. Basically, focused on industry automation in every workflow, Computer Vision and Intelligent System.**
+
+### What I Do
+**I build real-world AI systems combining:**
+- Machine Learning & Deep Learning
+- Computer Vision (OpenCV, Vision AI)
+- Cloud Systems (GCP, BigQuery, Vertex AI, Azure)
+- Robotics Integration
 
 ## Connect with me
 [![Email](https://img.shields.io/badge/-blue?style=flat&logo=gmail)](mailto:jahid.islam@zohomail.com)
