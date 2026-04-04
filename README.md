@@ -32,10 +32,15 @@
       <td>To select pieces mosaic tiles by color</td>
       <td>Camera capture → Color detection → Decision → Tiles sorting</td>
     </tr>
-      <tr>
+    <tr>
       <td><a href="https://github.com/jahid-github/Food-Demand-Prediction-and-Waste-Analytics-">MIXX Food Demand Prediction</a></td>
       <td>Machine learning system to predict food demand and reduce waste in restaurants</td>
       <td>Google Colab → BigQuery → Looker Studio</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/jahid-github/Machine_Vision_Guided_Pick_and_Place_with_DobotMG400">Vision-Guided Robotics System</a></td>
+      <td>Computer vision system for object detection and robotic pick-and-place</td>
+      <td>Camera → Vision → Calibration → Robot Motion → Object Placement</td>
     </tr>
   </tbody>
 </table>
