@@ -13,13 +13,6 @@
 
 ![GitHub status](https://github-readme-stats.vercel.app/api?username=jahid-github&show_icons=true&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=jahid-github&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jahid-github&layout=compact&theme=radical)
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=jahid-github&theme=onestar)
-
-![Profile Views](https://komarev.com/ghpvc/?username=jahid-github&color=blue)
 
 ## Projects
 
