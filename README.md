@@ -30,7 +30,7 @@
     <tr>
       <td><a href="https://github.com/jahid-github/A-machine-vision-application-with-Arduino-Nicla-Vision-to-select-pieces-mosaic-tiles-by-color">Machine Vision Application</a></td>
       <td>To select pieces mosaic tiles by color</td>
-      <td>Arduino IDE, OpenMV, Python</td>
+      <td>Camera capture → Color detection → Decision → Tiles sorting</td>
     </tr>
       <tr>
       <td><a href="https://github.com/jahid-github/Food-Demand-Prediction-and-Waste-Analytics-">MIXX Food Demand Prediction</a></td>
