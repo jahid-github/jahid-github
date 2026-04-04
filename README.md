@@ -1,4 +1,4 @@
-**👋 Hi, I’m an End-to-End AI Engineer with Full-Spectrum Data Science. Basically, focused on industry automation in every workflow, Computer Vision and Intelligent System.**
+**👋 Hi, I’m an End-to-End AI Engineer. Focused on industrial automation, Applied ML and intelligent systems.**
 
 ### What I Do
 **I build real-world AI systems combining:**
@@ -9,10 +9,8 @@
 
 ## Connect with me
 [![Email](https://img.shields.io/badge/-blue?style=flat&logo=gmail)](mailto:jahid.islam@zohomail.com)
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jahidulislamin/)
-[![Hackerrank](https://img.shields.io/badge/-1DA1F2?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/jahidulislam2636)
-[![Kaggle](https://img.shields.io/badge/-1DA1F2?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/jahid0)
-[![CodeChef](https://img.shields.io/badge/-1DA1F2?style=flat&logo=codechef&logoColor=white)](https://www.codechef.com/users/jahidcode)
 
 ![GitHub status](https://github-readme-stats.vercel.app/api?username=jahid-github&show_icons=true&theme=radical)
 
