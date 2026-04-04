@@ -25,7 +25,7 @@
     <tr>
       <td><a href="https://github.com/jahid-github/RPA-Expense-Tracker">Expense Tracker</a></td>
       <td>Automatically fills and submits data from web</td>
-      <td>Python, VS Code</td>
+      <td>Expense text file → formatting → RPA bot fills → Submission to tracker website → Snapshot + PDF report</td>
     </tr>
     <tr>
       <td><a href="https://github.com/jahid-github/A-machine-vision-application-with-Arduino-Nicla-Vision-to-select-pieces-mosaic-tiles-by-color">Machine Vision Application</a></td>
