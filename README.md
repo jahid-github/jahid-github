@@ -11,17 +11,14 @@
 [![Email](https://img.shields.io/badge/-blue?style=flat&logo=gmail)](mailto:jahid.islam@zohomail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jahidulislamin/)
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jahid-github&show_icons=true&theme=default)
-
-
-## Projects
+## Featured Projects
 
 <table>
   <thead style="background-color: #D3D3D3;"> <!-- Ash color for the header -->
     <tr>
       <th>Project Name</th>
       <th>Description</th>
-      <th>Technologies Used</th>
+      <th>System Architecture</th>
     </tr>
   </thead>
   <tbody>
@@ -34,6 +31,11 @@
       <td><a href="https://github.com/jahid-github/A-machine-vision-application-with-Arduino-Nicla-Vision-to-select-pieces-mosaic-tiles-by-color">Machine Vision Application</a></td>
       <td>To select pieces mosaic tiles by color</td>
       <td>Arduino IDE, OpenMV, Python</td>
+    </tr>
+      <tr>
+      <td><a href="https://github.com/jahid-github/Food-Demand-Prediction-and-Waste-Analytics-">MIXX Food Demand Prediction</a></td>
+      <td>Machine learning system to predict food demand and reduce waste in restaurants</td>
+      <td>Google Colab → BigQuery → Looker Studio</td>
     </tr>
   </tbody>
 </table>
