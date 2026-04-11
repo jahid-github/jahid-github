@@ -1,4 +1,4 @@
-**👋 Hi, I’m an End-to-End AI Engineer. Focused on industrial automation, Applied ML and intelligent systems.**
+**👋 Hi, I’m an End-to-End AI Engineer. Focused on industrial automation, Applied ML and Intelligent systems.**
 
 ### What I Do
 **I build real-world AI systems combining:**
