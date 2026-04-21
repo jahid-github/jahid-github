@@ -1,4 +1,4 @@
-**👋 Hi, I’m a Physical AI Engineer. Focused on Industrial Automation, Applied ML, Computer Vision and Robotics Intelligent Systems.**
+**👋 Hi, I’m a Physical AI/ Robotics ML Engineer. Focused on Industrial Automation, Applied ML, Computer Vision and Robotics Intelligent Systems.**
 
 ### What I Do
 **I build real-world AI systems combining:**
