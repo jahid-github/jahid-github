@@ -1,11 +1,14 @@
-**👋 Hi, I’m an AI Platform Engineer.**
+**👋 Hi, I’m Network and Cloud Security Engineer.**
 
-### What I Do
+## What I’m Building Skills In
+
 **I build real-world AI systems combining:**
-- Machine Learning & Deep Learning
-- Computer Vision (OpenCV, Vision AI)
-- Cloud Systems (GCP, BigQuery, Vertex AI, Azure)
-- Robotics Integration
+
+- Network Cloud Security (Azure)
+- Windows & Linux Administration
+- Security Automation with Python
+- OT/ICS & Industrial Cybersecurity
+- Security Monitoring & Incident Response
 
 ## Connect with me
 [![Email](https://img.shields.io/badge/-blue?style=flat&logo=gmail)](mailto:jahid.islam@zohomail.com)
