@@ -1,7 +1,7 @@
+
 **Hi, I’m an ICT & Robotics Engineering student focused on Network, Cloud and OT/ICS Security.**
 
 ## What I’m Building Skills In
-
 I’m developing hands-on skills in:
 
 - Networking & Network Security
@@ -17,7 +17,6 @@ I’m developing hands-on skills in:
 [![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/jahid0)
 
 ## Featured Projects
-
 <table>
   <thead style="background-color: #D3D3D3;"> <!-- Ash color for the header -->
     <tr>
@@ -56,7 +55,6 @@ I’m developing hands-on skills in:
 </table>
 
 ## Technical Stack
-
 - **Cybersecurity:** Security Fundamentals, IAM, MFA, RBAC, Conditional Access, Windows Security
 - **Networking:** TCP/IP, IP Addressing, Subnetting, DNS, DHCP, Routing & Switching Fundamentals, Network Security
 - **Systems:** Windows 10/11, Linux, Active Directory Fundamentals, Group Policy, Virtualization
@@ -66,12 +64,9 @@ I’m developing hands-on skills in:
 - **Development & Tools:** Git, GitHub, Docker, VS Code, SQL
 
 ## Language Skills:
-
 - English — C1 (Full Professional Proficiency)
-  
 - Finnish — A2 (Active Learner)
 
   
 ## Soft Skills:
-
 Analytical Thinking | Team Collaboration | Cognitive Flexibility | Creative Problem-Solving | Emotional Intelligence | Continuous Learning
