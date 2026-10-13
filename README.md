@@ -1,12 +1,13 @@
-**👋 Hi, I’m Network and Cloud Security Engineer.**
+**👋 Hi, I’m an ICT & Robotics Engineering student focused on Network and Cloud Security.**
 
 ## What I’m Building Skills In
 
-**I build real-world AI systems combining:**
+I’m building hands-on skills in:
 
-- Network Cloud Security (Azure)
+- Networking & Network Security
+- Cloud Security (Microsoft Azure)
 - Windows & Linux Administration
-- Security Automation with Python
+- Security Automation with Python & PowerShell
 - OT/ICS & Industrial Cybersecurity
 - Security Monitoring & Incident Response
 
