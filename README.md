@@ -1,8 +1,8 @@
-**👋 Hi, I’m an ICT & Robotics Engineering student focused on Networking, Network and Cloud Security.**
+**Hi, I’m an ICT & Robotics Engineering student focused on Network, Cloud and OT/ICS Security.**
 
 ## What I’m Building Skills In
 
-I’m building hands-on skills in:
+I’m developing hands-on skills in:
 
 - Networking & Network Security
 - Cloud Security (Microsoft Azure)
@@ -55,15 +55,15 @@ I’m building hands-on skills in:
   </tbody>
 </table>
 
-## Technical Stack:
+## Technical Stack
 
-- **Cybersecurity:** SOC and Read Teaming
-- **Networking:** Network Security, Virtualization
-- **Systems:** Windows, Linux
-- **Cloud:** Azure, IAM
+- **Cybersecurity:** Security Fundamentals, IAM, MFA, RBAC, Conditional Access, Windows Security
+- **Networking:** TCP/IP, IP Addressing, Subnetting, DNS, DHCP, Routing & Switching Fundamentals, Network Security
+- **Systems:** Windows 10/11, Linux, Active Directory Fundamentals, Group Policy, Virtualization
+- **Cloud:** Microsoft Azure Fundamentals, Microsoft 365, Entra ID, Intune
 - **Security Automation:** Python, PowerShell
-- **Industrial / OT:** Robotics & IoT
-- **Development & Tools:** Git, GitHub, VS Code, SQL
+- **Industrial / OT:** Robotics, IoT Architectures, Controllers, Control Systems, OT/ICS Security Fundamentals
+- **Development & Tools:** Git, GitHub, Docker, VS Code, SQL
 
 ## Language Skills:
 
