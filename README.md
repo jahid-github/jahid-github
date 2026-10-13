@@ -56,17 +56,22 @@ I’m building hands-on skills in:
 </table>
 
 ## Technical Stack:
-- Languages: Python, SQL, R
-- ML & Data Analysis: TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy
-- Visualization: Power BI, Tableau, Looker Studio, Plotly, Matplotlib, Seaborn
-- Databases: MySQL, PostgreSQL, SQL Server, MongoDB, BigQuery, Azure Synapse, Snowflake
-- Cloud: Microsoft Azure, Google Cloud, Databricks, Azure Data Lake, HDFS, Apache Spark
-- Tools: Git, GitHub, DBeaver, Docker, PowerShell, Jupyter Notebook, VS Code
+
+- **Cybersecurity:** SOC and Read Teaming
+- **Networking:** Network Security, Virtualization
+- **Systems:** Windows, Linux
+- **Cloud:** Azure, IAM
+- **Security Automation:** Python, PowerShell
+- **Industrial / OT:** Robotics & IoT
+- **Development & Tools:** Git, GitHub, VS Code, SQL
 
 ## Language Skills:
+
 - English — C1 (Full Professional Proficiency)
-- Finnish — A1.3 (Active Learner)
+  
+- Finnish — A2 (Active Learner)
 
   
 ## Soft Skills:
+
 Analytical Thinking | Team Collaboration | Cognitive Flexibility | Creative Problem-Solving | Emotional Intelligence | Continuous Learning
