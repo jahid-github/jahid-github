@@ -1,4 +1,4 @@
-**👋 Hi, I’m an ICT & Robotics Engineering student focused on Network and Cloud Security.**
+**👋 Hi, I’m an ICT & Robotics Engineering student focused on Networking, Network and Cloud Security.**
 
 ## What I’m Building Skills In
 
